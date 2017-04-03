@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;CProg&apos;" deleteContents="false" description="Delete resource &apos;CProg&apos;" element1="/CProg" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1488418292381"/>&#x0A;<refactoring comment="Delete resource &apos;BooleanExpressions&apos;" deleteContents="false" description="Delete resource &apos;BooleanExpressions&apos;" element1="/BooleanExpressions" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1488644595590"/>
+</session>

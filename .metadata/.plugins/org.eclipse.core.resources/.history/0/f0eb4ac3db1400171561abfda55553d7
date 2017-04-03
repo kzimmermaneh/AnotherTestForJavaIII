@@ -1,0 +1,88 @@
+
+public class Education extends Person {
+
+	//composition has-a relationship
+	private Education education;
+	private String school;{
+	  this.education=new Education();
+	  education.setSchool("Baylor University");
+	  education.setSchool("University of Michigan");
+	  education.setSchool("Savannah College of Art and Design");
+	  education.setSchool("Roger Williams University");
+	  education.setSchool("Ohio University");
+	  education.setSchool("Monte Cassino");
+	  education.setSchool("Sandy Spring Friends School");
+	  education.setSchool("The Nora School");
+	  education.setSchool("Montgomery College");
+	  education.setSchool("University of Maryland");
+	}
+	
+	public void setSchool(String school) {
+	    this.school = school;
+	}
+	public String getEducation() {
+	  return education.getEducation();
+	}
+	}
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+/**********************************************************
+
+
+Create an Education class and make an instance of the Education class a member of the Person class. 
+Your education class should include a list of last 10 schools attended. 
+Create a toString() override for both Job and Education that outputs the information in the class to the console. 
+The toString() override for Person should use the toString() methods for the Job and Education member objects.
+
+
+
+//Job.java
+public class Job {
+private String role;
+private long salary;
+private int id;
+public String getRole() {
+    return role;
+}
+public void setRole(String role) {
+    this.role = role;
+}
+public long getSalary() {
+    return salary;
+}
+public void setSalary(long salary) {
+    this.salary = salary;
+}
+public int getId() {
+    return id;
+}
+public void setId(int id) {
+    this.id = id;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****************************************/

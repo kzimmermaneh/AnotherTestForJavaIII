@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Eclipse Vagrant Tooling</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-vagrant-tooling</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-02-02 16:55&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-04-03 12:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse.org%22&quot;&gt;Eclipse.org&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/rgrunberg/listings&quot; title=&quot;Roland Grunberg&quot;&gt;Roland Grunberg&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The Eclipse Vagrant Tooling plugin allows users a simple way to manage Vagrant Boxes, and Virtual Machines as one might do with the &#039;vagrant&#039; commandline tool.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 02 Feb 2016 21:55:39 +0000</pubDate>
+ <dc:creator>rgrunberg</dc:creator>
+ <guid isPermaLink="false">2706342 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-vagrant-tooling#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse Docker Tooling</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-docker-tooling</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-02-02 16:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-04-03 12:45&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse.org%22&quot;&gt;Eclipse.org&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/rgrunberg/listings&quot; title=&quot;Roland Grunberg&quot;&gt;Roland Grunberg&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The Eclipse Docker Tooling plugin provides the ability to manage Docker images and containers from within the Eclipse IDE.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 02 Feb 2016 21:42:02 +0000</pubDate>
+ <dc:creator>rgrunberg</dc:creator>
+ <guid isPermaLink="false">2706327 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-docker-tooling#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse Copyright Generator</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-copyright-generator</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-04-01 07:55&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-04-03 11:12&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jabresson/listings&quot; title=&quot;Jeremie Bresson&quot;&gt;Jeremie Bresson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Plugin for Eclipse IDE to add and manage copyright headers at the beginning of the source files.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sat, 01 Apr 2017 11:55:22 +0000</pubDate>
+ <dc:creator>jabresson</dc:creator>
+ <guid isPermaLink="false">3374223 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-copyright-generator#comments</comments>
+  </item>
+  <item>
+    <title>Spring Tool Suite (STS) for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/spring-tool-suite-sts-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/STS_Eclipse_Rating_1_1.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2014-07-11 12:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-04-03 05:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mlippert/listings&quot; title=&quot;Martin Lippert&quot;&gt;Martin Lippert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The Spring Tool Suite™ (STS) provides the best Eclipse-powered development environment for building Spring-powered enterprise applications. STS supplies tools for all of the latest enterprise Java and Spring, and comes on top of the latest Eclipse releases.&lt;/p&gt;
+&lt;p&gt;Included with STS is the developer edition of Pivotal tc Server, the drop-in replacement for Apache Tomcat that’s optimized for Spring. With its Spring Insight console, tc Server Developer Edition provides a graphical real-time view of application performance metrics that lets developers identify and diagnose problems from their desktops.&lt;/p&gt;
+&lt;p&gt;STS supports application targeting to local, virtual and cloud-based servers. It is freely available for development and internal business operations use with no time limits.&lt;/p&gt;
+&lt;h2&gt;Spring Application Tools&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;Spring project, bean and XML file wizards&lt;/li&gt;
+&lt;li&gt;Spring 3 + 4 support including @Configuration and @Bean styles as well as bean profiles&lt;/li&gt;
+&lt;li&gt;Advanced code completion, content-assist, validation and quick-fix support for Spring apps&lt;/li&gt;
+&lt;li&gt;Refactoring support for Spring XML and @Configuration styles&lt;/li&gt;
+&lt;li&gt;Graphical Spring configuration editor&lt;/li&gt;
+&lt;li&gt;Spring Web Flow, Spring Batch, and Spring Integration visual development tools&lt;/li&gt;
+&lt;li&gt;Spring Roo project wizard and development shell&lt;/li&gt;
+&lt;li&gt;Spring Application blue prints and best practice validation&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Flexible Deployment Targets&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;Support for all the most common Java EE application servers&lt;/li&gt;
+&lt;li&gt;Advanced support for Pivotal tc Server&lt;/li&gt;
+&lt;li&gt;Full IDE integration for Cloud Foundry, including real debugging in the cloud&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 11 Jul 2014 16:41:17 +0000</pubDate>
+ <dc:creator>mlippert</dc:creator>
+ <guid isPermaLink="false">1794107 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/spring-tool-suite-sts-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Spring IDE</title>
+    <link>http://marketplace.eclipse.org/content/spring-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/springide_logo_small.jpg&quot; width=&quot;110&quot; height=&quot;74&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2005-07-25 19:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-04-03 05:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mlippert/listings&quot; title=&quot;Martin Lippert&quot;&gt;Martin Lippert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://springide.org/&quot;&gt;Spring IDE&lt;/a&gt; is a set of plugins which are adding support for the popular application framework &lt;a href=&quot;http://springframework.org/&quot;&gt;Spring Framework&lt;/a&gt; to the Eclipse platform.
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Project nature which adds support of Spring projects&lt;/li&gt;
+&lt;li&gt;Incremental builders validating Spring bean config files&lt;/li&gt;
+&lt;li&gt;Image decorator which decorates all Spring projects, their config files and all Java classes which are used by these config files&lt;/li&gt;
+&lt;li&gt;View which displays all Spring projects and their Spring-related artifacts&lt;/li&gt;
+&lt;li&gt;Textual and graphical editors for Spring configuration files&lt;/li&gt;
+&lt;li&gt;Extension of Eclipse&#039;s search facility to search for Spring artifacts&lt;/li&gt;
+&lt;li&gt;Support for refactorings of Spring config files&lt;/li&gt;
+&lt;li&gt;Wizards for creating new Spring projects and config files&lt;/li&gt;
+&lt;li&gt;Support for Spring 2.0 name spaces&lt;/li&gt;
+&lt;li&gt;Support for Spring AOP&lt;/li&gt;
+&lt;li&gt;Support for Spring Web Flow&lt;/li&gt;
+&lt;li&gt;Support for Spring JavaConfig&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 25 Jul 2005 23:35:16 +0000</pubDate>
+ <dc:creator>mlippert</dc:creator>
+ <guid isPermaLink="false">156 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/spring-ide#comments</comments>
+  </item>
+  <item>
+    <title>Quick Search for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/quick-search-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/STS_Eclipse_Rating_1_0.png&quot; width=&quot;100&quot; height=&quot;73&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2013-07-10 07:47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-04-03 05:01&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mlippert/listings&quot; title=&quot;Martin Lippert&quot;&gt;Martin Lippert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Eclipse Quick Search is a fast and easy to use &quot;search as you type&quot; text search tool. Open with Cmd-Shift-L, type your search and see results immediately.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Wed, 10 Jul 2013 11:47:04 +0000</pubDate>
+ <dc:creator>mlippert</dc:creator>
+ <guid isPermaLink="false">993512 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/quick-search-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Pivotal tc Server Integration for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/pivotal-tc-server-integration-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2012-08-15 05:15&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-04-03 04:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mlippert/listings&quot; title=&quot;Martin Lippert&quot;&gt;Martin Lippert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The Pivotal tc Server Integration for Eclipse adds server adaptors for the Pivotal tc Server to the Eclipse JEE tooling. It makes it easy to deploy apps, start, debug and stop your tc Server, create new instances with various configurations, all from within Eclipse.&lt;/p&gt;
+&lt;p&gt;It comes with the Spring Dashboard is an optional component, which brings you up-to-date information about Spring-related projects as well as an easy-to-use extension install to get additional tooling add-ons, like the famous Spring IDE or the Cloud Foundry Integration for Eclipse.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Wed, 15 Aug 2012 09:15:54 +0000</pubDate>
+ <dc:creator>mlippert</dc:creator>
+ <guid isPermaLink="false">375849 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/pivotal-tc-server-integration-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>ALIAS SCREEN DESIGNER for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/alias-screen-designer-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ASD_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-01-18 10:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-04-03 03:01&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Sun%20i-Tech%22&quot;&gt;Sun i-Tech&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/eroseta/listings&quot; title=&quot;Evelyne Roseta&quot;&gt;Evelyne Roseta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Alias Screen Designer is the ultimate dynamic HTML5 forms builder for Eclipse that helps developers generate stunning JSP and PHP pages. Fully WYSIWIG and no programming required ! Just draw, simulate and generate your dynamic pages.&lt;/p&gt;
+&lt;p&gt;Dynamic HTML pages designers know how complex their developement and evolution over time can be. Built with industrial CAD (Computerized Assisted Design) tools in mind, Alias Screen Designer Plug-in gives you a user-friendly and ergonomical workspace to ease the creation of all your dynamic HTML 5 pages (JSP and PHP formats).&lt;/p&gt;
+&lt;p&gt;1- Download Alias Screen Designer plug-in for Eclipse.&lt;/p&gt;
+&lt;p&gt;Register now to enjoy a free 1-year licence and free annual renewals ! &lt;/p&gt;
+&lt;p&gt;2 -Just draw and be creative.&lt;/p&gt;
+&lt;p&gt;A large catalogue of objects available :&lt;br /&gt;
+Text fields, input/output fields, images (fixed, variable), combo box, group box, check box, charts, buttons (push, radio) etc. You may design all kind of tables from standard grid to stuning zebra-striping looks, and including the possibility to add sub-arrays. You can even add search features and apply animated effects. Depending on the type of target devices (PC, Tablet, Mobile), the form template will adjust.&lt;/p&gt;
+&lt;p&gt;Field control :&lt;br /&gt;
+In connexion with the Eclipse IDE, Alias Screnn Designer allows you not only to set up graphic properties for each field but also all controls that should satisfy data capture. Therefore, your dynamic HTML 5 pages integrate verifications such as values, formats, etc.&lt;/p&gt;
+&lt;p&gt;Calculation and dependency functions :&lt;br /&gt;
+You may define a field as the result of a calculation that won’t call upon the server. You may also set up constrains between fields. By using these functions, you optimize server exchanges by lowering server traffic.&lt;/p&gt;
+&lt;p&gt;Display control interactions :&lt;br /&gt;
+In just a few clicks, you set up interactions between fields : actions on one or more fields, controling display parameters : visible, hided, editable or not, enabled or not. This control is done dynamically according to rules.&lt;/p&gt;
+&lt;p&gt;CSS import :&lt;br /&gt;
+With Alias Screen Designer, you can import your own CSS to go along with your corporate graphic chart.&lt;/p&gt;
+&lt;p&gt;And you may also insert iframes and all kind of widgets into your pages !&lt;/p&gt;
+&lt;p&gt;If you want to learn more about Alias Screen Designer visit our website : &lt;a href=&quot;http://www.sunitech.eu/plug-ins-eclipse_en.php&quot;&gt;http://www.sunitech.eu/plug-ins-eclipse_en.php&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 18 Jan 2016 15:33:03 +0000</pubDate>
+ <dc:creator>eroseta</dc:creator>
+ <guid isPermaLink="false">2686457 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/alias-screen-designer-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>OcaIDE</title>
+    <link>http://marketplace.eclipse.org/content/ocaide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo_4.gif&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2007-10-09 09:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2017-04-02 12:22&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Nicolas%20Bros%22&quot;&gt;Nicolas Bros&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/nbros/listings&quot; title=&quot;Nicolas Bros&quot;&gt;Nicolas Bros&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;An Open Source plug-in for O&#039;Caml development under Eclipse.&lt;/p&gt;
+&lt;!--break--&gt;&lt;p&gt;Supports many advanced features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt; Source editor for modules (ml files), interfaces (mli files), parsers (mly files) and lexers (mll files)
+&lt;/li&gt;&lt;li&gt; Syntax coloring (colors and styles are configurable)
+&lt;/li&gt;&lt;li&gt; Automatic indentation while typing in the editor (configurable in the preferences)
+&lt;/li&gt;&lt;li&gt; A customizable integrated code formatter, and an interface to the camlp4 formatter (through an AST printer)
+&lt;/li&gt;&lt;li&gt; Completion
+&lt;/li&gt;&lt;li&gt; Library browser, both for the standard library and user libraries
+&lt;/li&gt;&lt;li&gt; Integrated debugger (a graphical interface to the O&#039;Caml text-mode debugger), with remote debugging support and script file support
+&lt;/li&gt;&lt;li&gt; Highlighting of matching delimiters
+&lt;/li&gt;&lt;li&gt; Integrated toplevel
+&lt;/li&gt;&lt;li&gt; Creation of custom toplevels
+&lt;/li&gt;&lt;li&gt; Camlp4 pre-processing
+&lt;/li&gt;&lt;li&gt; An O&#039;Caml perspective inside of Eclipse
+&lt;/li&gt;&lt;li&gt; Shortcuts to the O&#039;Caml elements in Eclipse
+&lt;/li&gt;&lt;li&gt; Building of O&#039;Caml projects (with ocamlbuild, with hand-written makefile, with OcamlMakefile or managed by the IDE)
+&lt;/li&gt;&lt;li&gt; Importation and exportation of O&#039;Caml projects
+&lt;/li&gt;&lt;li&gt; Launching of O&#039;Caml executables with parameters, and interactive console
+&lt;/li&gt;&lt;li&gt; Outline and Quick Outline
+&lt;/li&gt;&lt;li&gt; Displays the inferred type of elements in the editor and outline
+&lt;/li&gt;&lt;li&gt; Descriptive popups on O&#039;Caml definitions
+&lt;/li&gt;&lt;li&gt; Help on expected parameters for functions, exceptions and constructors
+&lt;/li&gt;&lt;li&gt; Configurable shortcuts
+&lt;/li&gt;&lt;li&gt; Configurable paths for all the tools (and the paths are automatically detected)
+&lt;/li&gt;&lt;li&gt; On demand makefile generation
+&lt;/li&gt;&lt;li&gt; Automatic interface generation
+&lt;/li&gt;&lt;li&gt; Hyperlinks for jumping to the definition of an element (variable, type constructor...)
+&lt;/li&gt;&lt;li&gt; Error markers in the editor, editor&#039;s margin, Navigator view and Problems view
+&lt;/li&gt;&lt;li&gt; Editable code templates
+&lt;/li&gt;&lt;li&gt; Automatic detection of project paths
+&lt;/li&gt;&lt;li&gt; Commenting and uncommenting of code blocks
+&lt;/li&gt;&lt;li&gt; Spell checking of comments and documentation comments
+&lt;/li&gt;&lt;li&gt; Switch between module/interface
+&lt;/li&gt;&lt;li&gt; Convert files between revised syntax and standard syntax (with Camlp4)
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 09 Oct 2007 13:37:07 +0000</pubDate>
+ <dc:creator>nbros</dc:creator>
+ <guid isPermaLink="false">556 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ocaide#comments</comments>
+  </item>
+  <item>
+    <title>SQL DAL Maker</title>
+    <link>http://marketplace.eclipse.org/content/sql-dal-maker</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/utils4dal_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2011-08-02 18:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-04-01 11:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22.%22&quot;&gt;.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pmisingnameeok/listings&quot; title=&quot;panedrone Mising name&quot;&gt;panedrone Mising name&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;SQL DAL Maker is a generator of DTO and DAO classes. Target programming languages: PHP, Java, C++, Python, Ruby.&lt;/p&gt;
+&lt;p&gt;To generate the class, you declare it in XML meta-program.&lt;/p&gt;
+&lt;p&gt;Read &lt;a href=&quot;http://sqldalmaker.sourceforge.net/install.html&quot;&gt;http://sqldalmaker.sourceforge.net/install.html&lt;/a&gt; for instructions of how to install and update.&lt;/p&gt;
+&lt;p&gt;Installation from this Web-site is temporarily unavailable.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 02 Aug 2011 22:05:21 +0000</pubDate>
+ <dc:creator>pmisingnameeok</dc:creator>
+ <guid isPermaLink="false">97312 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/sql-dal-maker#comments</comments>
+  </item>
+  </channel>
+</rss>

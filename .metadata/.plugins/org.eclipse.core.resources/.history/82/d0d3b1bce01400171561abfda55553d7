@@ -1,0 +1,52 @@
+
+	public class Education extends Person
+{
+		
+
+private String school1;
+private String school2;
+private String school3;
+private String school4;
+private String school5;
+private String school6;
+private String school7;
+
+public String getSchool() {
+    return school1;
+    
+}
+
+
+
+
+public void setEducation(String school1, String school2, String school3, String school4, String school5, String school6, String school7)
+{
+this.school1 = "Baylor University";
+this.school2 = "University of Michigan";
+this.school3 = "Savannah College of Art and Design";
+this.school4 = "Sandy Spring Friends School";
+this.school5="The Nora School";
+this.school6="Monte Cassino";
+
+}
+
+
+
+
+
+
+
+public void printSchool() 
+{
+System.out.println(school1 + "     " + school2 + "     " + school3 + school4 + school5 + school6 + school7);
+
+}
+
+
+}
+
+
+
+
+
+

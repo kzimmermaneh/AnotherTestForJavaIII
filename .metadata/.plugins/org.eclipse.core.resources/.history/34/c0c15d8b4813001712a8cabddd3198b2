@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+class Exception {
+  public static void main(String[] args) {
+	  
+try{	
+ 
+  int a, b, result = 0;
+ 
+  Scanner input = new Scanner(System.in);
+  System.out.println("Input two integers");
+
+  System.out.println("Result = " + result);
+  
+  //catch using Arithmetic Exception
+  a=input.nextInt();
+  b=input.nextInt();
+  result = a/b;
+  }catch (ArithmeticException s)
+  {
+	  
+  } catch (NumberFormatException e) {
+	  
+ 
+
+  }
+  }
+}
+
+
